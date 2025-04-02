@@ -1,8 +1,9 @@
+# Hey there, I'm ridze! 👋
+
 # 💫 About Me:
 I'm a Computer Science student on the path to becoming a full-stack developer, building my skills one project at a time. My development journey spans both frontend and backend technologies, constantly learning and implementing new concepts to solve real-world problems. Each project represents another step in mastering the full development lifecycle - from initial concept and design to implementation and deployment. When I'm not coding, I channel my creativity into music production, finding the perfect harmony between technology and art.
 
-
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/whoisridze) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@whoisridze) 
 
 # 💻 Tech Stack:
